@@ -1,0 +1,6 @@
+{
+    "name": "liminghong/sengrid-sample",
+    "require": {
+        "sendgrid/sendgrid": "~7"
+    }
+}

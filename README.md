@@ -9,6 +9,6 @@ Go to project's folder
 
 Then
 
-```git require sendgrid/sendgrid```
+```composer require sendgrid/sendgrid:~7```
 
 
